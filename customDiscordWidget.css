@@ -6,6 +6,9 @@
     font-family: equestriabold;
     src: url(https://www.dropbox.com/s/3swau0cqqtolbhk/Equestria%20Bold.otf?dl=1);
 }
-span[class="widget-header-count"]{
-font-family=equestria;
+strong{
+    font-family=equestriabold;
+}
+span{
+    font-family=equestria;
 }
