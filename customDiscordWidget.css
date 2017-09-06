@@ -1,0 +1,11 @@
+@font-face {
+    font-family: equestria;
+    src: url(https://www.dropbox.com/s/bwqcsi2he1i8w9x/Equestria.otf?dl=1);
+}
+@font-face {
+    font-family: equestriabold;
+    src: url(https://www.dropbox.com/s/3swau0cqqtolbhk/Equestria%20Bold.otf?dl=1);
+}
+span[class="widget-header-count"]{
+font-family=equestria;
+}
